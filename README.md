@@ -139,7 +139,7 @@ TMDB_API_KEY=your_api_key_here
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Vedshinde06/Movie-Recommender-System.git
 cd movie-recommendation-system
 ```
 
