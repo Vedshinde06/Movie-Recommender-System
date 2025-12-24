@@ -16,6 +16,14 @@ Each movie is represented as a **dense vector embedding**, and recommendations a
 
 ---
 
+## 🚀 Live Demo
+
+🔗 **Live Application:**  
+https://movie-recommender-system-lwhy38e95s7t8l27ntcjrm.streamlit.app/
+
+The application is deployed on **Streamlit Cloud** and supports real-time movie recommendations with poster previews.
+
+
 ## 🧠 Approach & Methodology
 
 ### 1️⃣ Dataset & Feature Engineering
